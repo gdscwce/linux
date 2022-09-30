@@ -1,43 +1,31 @@
 # Command
 Command name
+move command
 
 ---
 
 ## Description
 Short description about the command.
-
+it can move file from its position to other position or directory.
 ---
 
 ## Syntax
 ```bash
 syntax of command
 ```
-
+mv  filename.  Directory/
 ---
 
 ## Options/Flags
-- ###  Option no. 1 and it's use.
-    ```bash
-    $ syntax
-    ```
-- ### Option no. 2 and it's use.
-    ```bash
-    $ syntax
-    ```
-- ### Option no. 3 and it's use.
-    ```bash
-    $ syntax
-    ```
-  .
-  .
-  .
 
----
+ ## move file.txt to desktop from downlaods
+ mv file.txt ../Desktop 
+ 
+ ## mv file.txt to document
+ mv file.txt ../Desktop/home/user/document
 
 ## Exit Status
-- **x** = Meaning
-- **y** = Meaning
----
+  
 
 ## Author
 - first_name middle_name last_name
